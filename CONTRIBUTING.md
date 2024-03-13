@@ -1,3 +1,7 @@
+<!-- 
+Maintainers: This issue template comes from https://github.com/getwilds/.github
+You're encouraged to add your own that's optimized for your repo -->
+
 # Contributing
 
 This outlines how to propose a change to usethis. 
