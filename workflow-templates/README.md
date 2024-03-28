@@ -1,4 +1,10 @@
+# Documentation for workflow templates
+
 ## Pull Request Deploy Previews
+
+Files:
+- deploy-preview.yml
+- deploy-preview.properties.json
 
 Pre-requisites
 
@@ -37,6 +43,8 @@ Upon the next pull request, you should see a ping back from Netlify:
 ![screenshot of deploy preview in a pull request](deploy-preview.png)
 
 Notes:
+	- The same link to the deploy preview will be used each time you get a deploy preview
+	- The GitHub Action that runs as a result of this workflow template cleans up (deletes) old bot comments so that you don't have a bunch of bot comments with the same link - leaving the latest bot comment in place
 	- Permissions changes
 		- workflow permissions need to be changed for this to work in GitHub repos, but they are set correctly for all WILDS repos by default
 	- Why? Good question! You can simply link a GitHub repository to Netlify, but that integration doesn't allow .....
