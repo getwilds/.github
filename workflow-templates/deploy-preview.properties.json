@@ -1,0 +1,11 @@
+{
+    "name": "Quarto Deploy Preview Workflow",
+    "description": "Quarto Deploy preview starter workflow.",
+    "iconName": "octicon search",
+    "categories": [
+        "code-review"
+    ],
+    "filePatterns": [
+        "^_quarto.yml$"
+    ]
+}
