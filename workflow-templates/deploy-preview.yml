@@ -1,8 +1,8 @@
 on:
   pull_request:
-    branches: [main]
+    branches: [ $default-branch ]
   issue_comment:
-    types: [created]
+    types: [ created ]
 
 name: Quarto Deploy Preview
 
