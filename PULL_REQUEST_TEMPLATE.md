@@ -10,7 +10,7 @@ Is this a PR to main branch (or whatever the default branch is called)?
 <!--- Provide a general summary of your changes in the Title above -->
 
 ## Description
-<!-- Describe your changes  -->
+<!-- Describe your changes -->
 
 ## Related Issue
 <!-- If this closes an issue make sure include e.g., "fix #4"
