@@ -3,7 +3,7 @@ Maintainers: This issue template comes from https://github.com/getwilds/.github
 You're encouraged to add your own that's optimized for your repo 
 
 Is this a PR to main branch (or whatever the default branch is called)?
-- Note: Code can only be added to main via PR
+- Code can only be added to main via PR
 - A project lead has to approve a PR to main
 -->
 
