@@ -28,6 +28,8 @@ reproducible example ([reprex](https://www.tidyverse.org/help/#reprex) for R, or
     * The body of your PR should contain `Fixes #issue-number`.
 * For user-facing changes, add a bullet to the changelog file if there is one. This should be `NEWS.md` for an R package, and likely `Changelog.md` or `Changelog.rst` for a Python package.
 
+Note that some WILDS repositories follow Gitflow (link to our guide). Inspect the repository and the branches to see what branches are used. If a `dev` branch is used, fork from the `dev` branch and submit your PR against the `dev` branch.
+
 ### Code style
 
 * New code for R and Python packages should follow our [style guide](https://getwilds.org/guide/style.html). 
