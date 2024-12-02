@@ -21,16 +21,16 @@ reproducible example ([reprex](https://www.tidyverse.org/help/#reprex) for R, or
 
 ### Pull request process
 
-*   Fork the package and clone onto your computer
-*   Create a Git branch for your pull request (PR)
-*   Make your changes, commit to git, and then create a pull request.
-    *   The title of your PR should briefly describe the change.
-    *   The body of your PR should contain `Fixes #issue-number`.
-*  For user-facing changes, add a bullet to the changelog file if there is one. This should be `NEWS.md` for an R package, and likely `Changelog.md` or `Changelog.rst` for a Python package.
+* Fork the package and clone onto your computer
+* Create a Git branch for your pull request (PR)
+* Make your changes, commit to git, and then create a pull request.
+  * The title of your PR should briefly describe the change.
+    * The body of your PR should contain `Fixes #issue-number`.
+* For user-facing changes, add a bullet to the changelog file if there is one. This should be `NEWS.md` for an R package, and likely `Changelog.md` or `Changelog.rst` for a Python package.
 
 ### Code style
 
-*   New code for R and Python packages should follow our [style guide](https://getwilds.org/guide/style.html). 
+* New code for R and Python packages should follow our [style guide](https://getwilds.org/guide/style.html). 
 
 ## Code of Conduct
 
