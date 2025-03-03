@@ -2,9 +2,11 @@
 
 ## Pull Request Deploy Previews
 
+Note: instructions below were written for the Quarto Deploy Preview workflow template but apply the same to the Pkgdown Deploy Preview workflow template.
+
 Files:
-- deploy-preview.yml
-- deploy-preview.properties.json
+- deploy-preview.yml or deploy-preview-pkgdown.yml
+- deploy-preview.properties.json or deploy-preview-pkgdown.properties.json
 
 Pre-requisites
 
