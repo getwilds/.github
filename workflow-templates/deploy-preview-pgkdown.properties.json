@@ -1,0 +1,7 @@
+{
+  "name": "Pkgdown Deploy Preview Workflow",
+  "description": "Pkgdown Deploy preview starter workflow.",
+  "iconName": "octicon search",
+  "categories": ["code-quality", "R"],
+  "filePatterns": ["^_pkgdown.yml$"]
+}
